@@ -18,7 +18,7 @@ Sou um estudante de tecnologia focado em entender como as coisas funcionam por b
 * **Ferramentas:** Git e GitHub
 
 ### ⚡ Curiosidades: 
-Quando não estou no terminal do computador ou estudando, provavelmente estou assistindo algum anime ou maratonando Game of Thrones.
+Quando não estou no terminal do computador ou estudando, provavelmente estou assistindo algum anime ou jogando video game.
 
 ### 📫 Como me encontrar:
 * **LinkedIn:** [Alex Sousa](https://www.linkedin.com/in/alex-sousa-64a97b137)
