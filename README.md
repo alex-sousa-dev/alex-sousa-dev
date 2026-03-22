@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Alex Sousa! 👋
 
-<!--
-**alex-sousa-dev/alex-sousa-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor & Infraestrutura**
 
-Here are some ideas to get you started:
+Sou um estudante de tecnologia focado em entender como as coisas funcionam por baixo dos panos. Gosto de transitar por diversas áreas da TI, desde a montagem e manutenção de hardware e administração de redes, até a criação de interfaces e desenvolvimento de sistemas. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 O que estou fazendo agora:
+* 🎓 Cursando o primeiro período de Análise e Desenvolvimento de Sistemas na UniFacema.
+* 💻 Desenvolvendo uma aplicação em Python para análise estatística utilizando o dataset Iris.
+* 🌐 Construindo minhas primeiras interfaces com HTML5 e CSS3.
+* ⚙️ Mergulhando nos fundamentos com a linguagem C, Sistemas Operacionais e Arquitetura de Computadores.
+
+### 🛠️ Tecnologias e Conhecimentos:
+* **Linguagens:** Python, C
+* **Front-end:** HTML5, CSS3
+* **Fundamentos:** Sistemas Operacionais, Arquitetura de Computadores
+* **Infraestrutura:** Manutenção de Hardware, Redes
+* **Ferramentas:** Git e GitHub
+
+### ⚡ Curiosidades: 
+Quando não estou no terminal do computador ou estudando, provavelmente estou assistindo algum anime ou maratonando Game of Thrones.
+
+### 📫 Como me encontrar:
+* **LinkedIn:** [Alex Sousa](https://www.linkedin.com/in/alex-sousa-64a97b137)
+* **E-mail:** alexsandrosousadasilva@gmail.com
